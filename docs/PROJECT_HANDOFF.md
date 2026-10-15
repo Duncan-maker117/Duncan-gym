@@ -13,7 +13,7 @@
 
 ### 普通用户试用
 
-仓库的 GitHub Pages 工作流可发布 Duncan gym 浏览器演示。首次访问会载入示例训练记录；演示数据只保存在当前浏览器，不能作为真实训练数据的唯一副本。
+浏览器演示地址：[https://duncan-maker117.github.io/Duncan-gym/](https://duncan-maker117.github.io/Duncan-gym/)。首次访问会载入示例训练记录；演示数据只保存在当前浏览器，不能作为真实训练数据的唯一副本。
 
 ### 本地运行（推荐 Docker Compose）
 

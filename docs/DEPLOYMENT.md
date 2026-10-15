@@ -2,7 +2,7 @@
 
 ## GitHub Pages：公开浏览器演示
 
-仓库的 `.github/workflows/pages.yml` 在 `main` 更新时构建 `VITE_DEMO=1` 前端，并发布到 GitHub Pages。演示版只在访客自己的浏览器中运行，首次进入会载入示例训练历史；没有服务端账号、跨设备同步或真实用户数据库。预置记录不是其他用户的数据。
+演示地址：[https://duncan-maker117.github.io/Duncan-gym/](https://duncan-maker117.github.io/Duncan-gym/)。仓库的 `.github/workflows/pages.yml` 在 `main` 更新时构建 `VITE_DEMO=1` 前端，并发布到 GitHub Pages。演示版只在访客自己的浏览器中运行，首次进入会载入示例训练历史；没有服务端账号、跨设备同步或真实用户数据库。预置记录不是其他用户的数据。
 
 Pages 工作流不复制第三方动作图片和动画，内置动作显示文字和占位图标。用户自己上传的自定义动作媒体仍属于各自浏览器中的数据。
 
